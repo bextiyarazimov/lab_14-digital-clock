@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(29, 28, 28);
+}
+
+.digital {
+  width: 900px;
+  margin: 300px;
+  text-align: center;
+  
+}
+
+.digital_item {
+  font-size: 50px;
+  border: 2px solid black;
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+
+
+#digital_clock {
+  font-size: 100px;
+  color: rgb(255, 255, 255);
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
